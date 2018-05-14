@@ -5,5 +5,5 @@
 	<meta name="author" content="Прізвище та імя">
 	<link rel="shortcut icon" href="img/ic.png">
 	<link rel='stylesheet' type='text/css' href='index_style.css'>
-	<title>Кращі автомобілі світу</title>
+	<title>Сучаснi електро-кари</title>
 </head>

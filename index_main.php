@@ -10,7 +10,7 @@
 ?>
 <body>
 <div id="main">
-	<div id="logo">Кращі автомобілі світу</div>
+	<div id="logo">Сучаснi електро-кари</div>
 	<div id="menu">
 		<?php
 			$q=mysql_query("SELECT id,name FROM namecar");
